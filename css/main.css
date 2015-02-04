@@ -9,6 +9,28 @@ body {
     min-width: 1200px;
     height: 500px;
 }
+.instructions {
+    width: 575px;
+    float: right;
+    top: -450px;
+    right: -60px;
+    position: relative;
+}
+.instructions p{
+    font-family: sans-serif;
+    line-height: 1.2;
+    margin-top: 2em;
+    width: 400px;
+
+}
+span.emphasis{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.instructions h2 {
+    font-family:'Rock Salt', fantasy, sans-serif;
+    font-size: 2em;
+}
 div.ryu{
     float: left;
 }
