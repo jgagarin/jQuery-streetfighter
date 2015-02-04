@@ -18,8 +18,8 @@ body {
     width: 575px;
     float: right;
     top: -450px;
-    right: -60px;
     position: relative;
+    z-index: 5;
 }
 .instructions p{
     font-family: sans-serif;
